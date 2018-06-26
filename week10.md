@@ -11,13 +11,11 @@
 
 ## [https://github.com/s40523239/cd\_2018-team11/blob/master/T7.slvs](https://github.com/s40523239/cd_2018-team11/blob/master/T7.slvs) {#pyslvs-機構設計模擬檔}
 
-##  {#pyslvs-機構設計模擬檔}
+## [兩段式六連桿提球+軌道模擬影片](https://www.youtube.com/watch?v=9nlL3ltaI3A)
 
-### [兩段式六連桿模擬影片](https://www.youtube.com/watch?v=NlTLLujV0q8&feature=youtu.be)
+## [兩段式六連桿提球+軌道模擬ttt檔](https://github.com/s40523239/cd_2018-team11/blob/master/兩段式六連桿軌道%2B提球_final.ttt) {#pyslvs-機構設計模擬檔}
 
-##  {#pyslvs-機構設計模擬檔}
-
-##  {#pyslvs-機構設計模擬檔}
+## ![](/assets/W10提球軌道_final.jpg) {#pyslvs-機構設計模擬檔}
 
 ## [Pyslvs 機構設計模擬檔](https://github.com/s40523239/cd_2018-team11/blob/master/T7.pyslvs) {#pyslvs-機構設計模擬檔}
 
@@ -30,6 +28,8 @@
 # [Onshape繪製機構](https://cad.onshape.com/documents/9a1d5711b2f01cdb0f5d8576/w/558c8a9517392c5e1fe32100/e/80b3049ba4aefa8b350f76b1)
 
 ![](/assets/W10_Onshape.jpg)
+
+# [**兩段式六連桿模擬影片**](https://www.youtube.com/watch?v=NlTLLujV0q8)
 
 # [模擬ttt檔](https://github.com/s40523238/cd2018/blob/master/模擬W10.ttt)
 
